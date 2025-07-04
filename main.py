@@ -2,6 +2,25 @@ import re
 import csv
 import json
 
+dart_keywords = [
+    "abstract", "else", "import", "super",
+    "as", "enum", "in", "switch",
+    "assert", "export", "interface", "sync",
+    "async", "extends", "is", "this",
+    "await", "extension", "late", "throw",
+    "break", "external", "library", "true",
+    "case", "factory", "mixin", "try",
+    "catch", "false", "new", "typedef",
+    "class", "final", "null", "var",
+    "const", "finally", "on", "void",
+    "continue", "for", "operator", "while",
+    "covariant", "Function", "part", "with",
+    "default", "get", "required", "yield",
+    "deferred", "hide", "rethrow",
+    "do", "if", "return",
+    "dynamic", "implements", "set"
+]
+
 
 def to_camel_case(text):
     text = re.sub(r'[^a-zA-Z0-9\s]', '', text)  # Remove non-alphanumeric characters except spaces
@@ -18,9 +37,11 @@ def convert_csv_to_arb(input_file, output_file, is_en=True):
         for row in reader:
             if len(row) > 0:
                 key = row[0]
-                print(row)
                 value = row[1] if len(row) > 1 else '™ ' + key
                 camel_case_key = to_camel_case(key)
+                if camel_case_key in  dart_keywords:
+                    camel_case_key = camel_case_key + 'Type'
+                    
                 if camel_case_key not in seen_keys:  # Skip duplicates
                     if is_en:
                         translations[camel_case_key] = key
@@ -39,3 +60,4 @@ output_arb_id = "app_id.arb"
 convert_csv_to_arb(input_csv, output_arb)
 convert_csv_to_arb(input_csv, output_arb_id, is_en=False)
 print(f"Conversion complete. Output saved to {output_arb} and {output_arb_id}.")
+
