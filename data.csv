@@ -1,0 +1,158 @@
+In
+Continue
+Out-Keluar
+Not Yet- Belum
+All
+Weight
+Save
+Select date
+Welcome!-Selamat Datang!
+Enter your account detail bellow-Masukkan detail akun Anda di bawah ini
+Remember me
+Forgot password
+Login to My Account
+Connection to server success.
+Device is not yet activated
+Please scan certificate (.CER) to activate the device.
+Enter Serial Number
+Enter serial number to activate your device.
+Serial Number
+Make sure you’re connected to the internet.
+Aim directly to the QR code.
+Server Configuration
+Please enter MQTT URL and local server URL before start.
+Connect to Server
+or
+Scan Using Device
+Contact Our Support
+Please contact our support agent to reset your password.
+Back to Login Page
+Scan to Connect to Server
+Scan to Activate Device
+Activate Your Device
+
+Pre-Register
+Register Linen
+In/Out
+Tag Finder
+Label Changer
+Opname
+Write Off
+Stock Spot-Check
+Print
+Sync Now
+
+Settings
+Completed
+Language
+Local Database
+Device Status
+Activated on 12 Feb 2025
+
+Total Row
+Clear All
+All your unsynchronized data will be lost
+Yes. Clear All
+Back
+
+Need to Sync
+History
+Make sure you’re connected to the internet to sync the data automatically.
+New Pre-Register Batch
+Item Scanned
+Read Time
+Ready to Scan
+Point the device at the sensor to scan.
+Finish Scan
+Cancel Scan?
+Are you sure to cancel this process?
+Yes. Cancel
+Scan Finished
+Sync now to register the batch to the server directly or return to home & sync later.
+Return to Home & Sync Later
+Sync Complete
+The batch have been synced successfully.
+Denied tags
+Tag denial may be due to duplication.
+Return to Home
+Enter dates
+Today
+This Week
+This Month
+Custom Date
+Cancel
+OK
+Choose Date Range
+Point the device to the item to find.
+The higher the percentage- the closer you get to the tag.
+
+Item Information
+Add Item
+Product/Linen Name
+Color
+Dimension (in CM)
+Weight (in gram)
+Item Code
+Each item code is a unique identifier. like a barcode on a product.
+Area
+Room
+Additional Information
+Date
+Batch Code
+Operator
+Age Read Tag
+Determine the tag's operational lifespan.
+Owned by external
+Check if the item is vendor/client owned.
+Business Entity
+Note
+Save & Continue
+
+No Item
+Please sync to get data from the server
+
+Filter
+Size
+Apply Filter
+
+Last sync
+Tag Scanned
+
+Registration Complete
+Registration Finished
+Item Name
+Tag Added
+Batch No.
+
+Item denial may be due to duplication on different items.
+
+Receive goods.-Menerima barang.
+Send out goods.-Mengirim barang.
+New Out Batch
+Vendor/Client Name
+Sender
+Recipient
+Note-Catatan
+New In/Out Batch
+Choose a vendor who send the goods.
+Received with thanks
+Scan Tags
+Finish Scan & Check Data
+
+Scan All Tags
+Finder Results
+Perform full scan.
+Find
+Find specific tags.
+See Results
+Save as Draft
+Sort By
+Ascending
+Location
+All location
+Status
+All status
+
+Change Status
+Change Label
+Change Classification
