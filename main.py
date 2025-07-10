@@ -54,7 +54,8 @@ def convert_csv_to_arb(input_file, output_file, is_en=True):
         json.dump(translations, arbfile, ensure_ascii=False, indent=2)
 
 # Example usage
-input_csv = "data.csv"
+# input_csv = "data.csv"
+input_csv = "data-generated.csv"
 output_arb = "app_en.arb"
 output_arb_id = "app_id.arb"
 convert_csv_to_arb(input_csv, output_arb)

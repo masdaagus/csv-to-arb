@@ -1,0 +1,173 @@
+In-Masuk
+Continue-Lanjutkan
+Out-Keluar
+Not Yet-Belum
+All-Semua
+Weight-Berat
+Save-Simpan
+Select date-Pilih tanggal
+Welcome-elamat Datang!
+Enter your account detail bellow-Masukkan detail akun Anda di bawah ini
+Remember me-Ingat saya
+Forgot password-Lupa kata sandi
+Login to My Account-Masuk ke Akun Saya
+Connection to server success.-Berhasil terhubung ke server.
+Device is not yet activated-Perangkat belum diaktifkan
+Please scan certificate (.CER) to activate the device.-Silakan scan sertifikat (.CER) untuk mengaktifkan perangkat.
+Enter Serial Number-Masukkan Nomor Seri
+Enter serial number to activate your device.-Masukkan nomor seri untuk mengaktifkan perangkat Anda.
+Serial Number-Nomor Seri
+Make sure you’re connected to the internet.-Pastikan Anda terhubung ke internet.
+Aim directly to the QR code.-Arahkan langsung ke kode QR.
+Server Configuration-Konfigurasi Server
+Please enter MQTT URL and local server URL before start.-Masukkan URL MQTT dan URL server lokal sebelum memulai.
+Connect to Server-Hubungkan ke Server
+or-atau
+Scan Using Device-Scan Menggunakan Perangkat
+Contact Our Support-Hubungi Dukungan Kami
+Please contact our support agent to reset your password.-Silakan hubungi agen dukungan kami untuk mereset kata sandi Anda.
+Back to Login Page-Kembali ke Halaman Masuk
+Scan to Connect to Server-Scan untuk Menghubungkan ke Server
+Scan to Activate Device-Scan untuk Mengaktifkan Perangkat
+Activate Your Device-Aktifkan Perangkat Anda
+
+PreRegister-PreRegister
+Register Linen-Registrasi Linen
+In/Out-Masuk/Keluar
+Tag Finder-Pencari Tag
+Label Changer-Pengganti Label
+Opname-Stok Opname
+Write Off-Penghapusan
+Stock Spo-heck-Pemeriksaan Stok
+Print-Cetak
+Sync Now-Sinkronkan Sekarang
+
+Settings-Pengaturan
+Completed-Selesai
+Language-Bahasa
+Local Database-Basis Data Lokal
+Device Status-Status Perangkat
+Activated on 12 Feb 2025-Diaktifkan pada 12 Feb 2025
+
+Total Row-Total Baris
+Clear All-Hapus Semua
+All your unsynchronized data will be lost-Semua data yang belum tersinkronisasi akan hilang
+Yes. Clear All-Ya. Hapus Semua
+Back-Kembali
+
+Need to Sync-Perlu Sinkronisasi
+History-Riwayat
+Make sure you’re connected to the internet to sync the data automatically.-Pastikan Anda terhubung ke internet untuk menyinkronkan data secara otomatis.
+New PreRegister Batch-Batch PreRegistrasi Baru
+Item Scanned-Item Discan
+Read Time-Waktu Pembacaan
+Ready to Scan-Siap untuk Scan
+Point the device at the sensor to scan.-Arahkan perangkat ke sensor untuk memindai.
+Finish Scan-Selesai Scan
+Cancel Scan?-Batalkan Scan?
+Are you sure to cancel this process?-Apakah Anda yakin ingin membatalkan proses ini?
+Yes. Cancel-Ya. Batalkan
+Scan Finished-Pemindaian Selesai
+Sync now to register the batch to the server directly or return to home & sync later.-Sinkronkan sekarang untuk mendaftarkan batch ke server atau kembali ke beranda & sinkronkan nanti.
+Return to Home & Sync Later-Kembali ke Beranda & Sinkronkan Nanti
+Sync Complete-Sinkronisasi Selesai
+The batch have been synced successfully.-Batch berhasil disinkronkan.
+Denied tags-Tag Ditolak
+Tag denial may be due to duplication.-Penolakan tag mungkin disebabkan oleh duplikasi.
+Return to Home-Kembali ke Beranda
+Enter dates-Masukkan tanggal
+Today-Hari Ini
+This Week-Minggu Ini
+This Month-Bulan Ini
+Custom Date-Tanggal Khusus
+Cancel-Batal
+OK-OK
+Choose Date Range-Pilih Rentang Tanggal
+Point the device to the item to find.-Arahkan perangkat ke item untuk menemukan.
+The higher the percentag-the closer you get to the tag.-Semakin tinggi persentasenya, semakin dekat Anda ke tag.
+
+Item Information-Informasi Item
+Add Item-Tambahkan Item
+Product/Linen Name-Nama Produk/Linen
+Color-Warna
+Dimension (in CM)-Dimensi (dalam CM)
+Weight (in gram)-Berat (dalam gram)
+Item Code-Kode Item
+Each item code is a unique identifier. like a barcode on a product.-Setiap kode item adalah pengenal unik, seperti barcode pada produk.
+Area-Area
+Room-Ruangan
+Additional Information-Informasi Tambahan
+Date-Tanggal
+Batch Code-Kode Batch
+Operator-Operator
+Age Read Tag-Umur Pembacaan Tag
+Determine the tag's operational lifespan.-Tentukan masa pakai operasional tag.
+Owned by external-Dimiliki oleh pihak eksternal
+Check if the item is vendor/client owned.-Periksa apakah item dimiliki oleh vendor/klien.
+Business Entity-Entitas Bisnis
+Note-Catatan
+Save & Continue-Simpan & Lanjutkan
+
+No Item-Tidak Ada Item
+Please sync to get data from the server-Silakan sinkronkan untuk mendapatkan data dari server
+
+Filter-Filter
+Size-Ukuran
+Apply Filter-Terapkan Filter
+
+Last sync-Sinkronisasi Terakhir
+Tag Scanned-Tag Discan
+
+Registration Complete-Registrasi Selesai
+Registration Finished-Registrasi Selesai
+Item Name-Nama Item
+Tag Added-Tag Ditambahkan
+Batch No.-No. Batch
+
+Item denial may be due to duplication on different items.-Penolakan item mungkin karena duplikasi pada item berbeda.
+
+Receive goods-Penerima barang.
+Send out goods-Pengirim barang.
+New Out Batch-Batch Keluar Baru
+Vendor/Client Name-Nama Vendor/Klien
+Sender-Pengirim
+Recipient-Penerima
+Note-Catatan
+New In/Out Batch-Batch Masuk/Keluar Baru
+Choose a vendor who send the goods.-Pilih vendor yang mPengirim barang.
+Received with thanks-Diterima dengan terima kasih
+Scan Tags-Scan Tag
+Finish Scan & Check Data-Selesaikan Scan & Periksa Data
+
+Scan All Tags-Scan Semua Tag
+Finder Results-Hasil Pencarian
+Perform full scan.-Lakukan pemindaian penuh.
+Find-Temukan
+Find specific tags.-Temukan tag tertentu.
+See Results-Lihat Hasil
+Save as Draft-Simpan sebagai Draf
+Sort By-Urutkan Berdasarkan
+Ascending-Naik
+Location-Lokasi
+All location-Semua lokasi
+Status-Status
+All status-Semua status
+
+Change Status-Ubah Status
+Change Label-Ubah Label
+Change Classification-Ubah Klasifikasi
+Last Update-Pembaruan Terakhir
+Battery-Baterai
+Unavailable-Tidak Tersedia
+Not Connected-Not Connected
+Show items-Tampilkan item
+Registered-Terdaftar
+Product-Produk
+Room-Ruangan
+Item-Barang
+Information-Informasi
+Not Synced-Tidak Disinkronkan
+Synced-Disinkronkan
+Room Ready to Sync-Ruang Siap Disinkronkan
+Sync now to update the batch to the server directly or return to home & sync later.-Sinkronkan sekarang untuk memperbarui batch ke server secara langsung atau kembali ke beranda & sinkronkan nanti.
+Sync Data Successful-Sinkronisasi Data Berhasil
