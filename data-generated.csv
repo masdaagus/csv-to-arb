@@ -6,7 +6,7 @@ All-Semua
 Weight-Berat
 Save-Simpan
 Select date-Pilih tanggal
-Welcome-elamat Datang!
+Welcome-Selamat Datang!
 Enter your account detail bellow-Masukkan detail akun Anda di bawah ini
 Remember me-Ingat saya
 Forgot password-Lupa kata sandi
@@ -14,20 +14,21 @@ Login to My Account-Masuk ke Akun Saya
 Connection to server success.-Berhasil terhubung ke server.
 Device is not yet activated-Perangkat belum diaktifkan
 Please scan certificate (.CER) to activate the device.-Silakan scan sertifikat (.CER) untuk mengaktifkan perangkat.
-Enter Serial Number-Masukkan Nomor Seri
-Enter serial number to activate your device.-Masukkan nomor seri untuk mengaktifkan perangkat Anda.
-Serial Number-Nomor Seri
+Activation URL-URL Aktivasi
+Enter Activation URL-Masukkan URL Aktivasi
+Enter Activation URL to activate your device.-Masukkan URL Aktivasi untuk mengaktifkan perangkat Anda.
+Activation Code-Kode Aktivasi
 Make sure you’re connected to the internet.-Pastikan Anda terhubung ke internet.
 Aim directly to the QR code.-Arahkan langsung ke kode QR.
 Server Configuration-Konfigurasi Server
 Please enter MQTT URL and local server URL before start.-Masukkan URL MQTT dan URL server lokal sebelum memulai.
 Connect to Server-Hubungkan ke Server
 or-atau
-Scan Using Device-Scan Menggunakan Perangkat
+Scan Using Camera-Scan Menggunakan Kamera
 Contact Our Support-Hubungi Dukungan Kami
 Please contact our support agent to reset your password.-Silakan hubungi agen dukungan kami untuk mereset kata sandi Anda.
 Back to Login Page-Kembali ke Halaman Masuk
-Scan to Connect to Server-Scan untuk Menghubungkan ke Server
+Scan Barcode-Scan Barcode
 Scan to Activate Device-Scan untuk Mengaktifkan Perangkat
 Activate Your Device-Aktifkan Perangkat Anda
 
@@ -75,6 +76,7 @@ The batch have been synced successfully.-Batch berhasil disinkronkan.
 Denied tags-Tag Ditolak
 Tag denial may be due to duplication.-Penolakan tag mungkin disebabkan oleh duplikasi.
 Return to Home-Kembali ke Beranda
+Return to Transaction-Kembali ke Transaksi
 Enter dates-Masukkan tanggal
 Today-Hari Ini
 This Week-Minggu Ini
@@ -133,7 +135,7 @@ Vendor/Client Name-Nama Vendor/Klien
 Sender-Pengirim
 Recipient-Penerima
 Note-Catatan
-New In/Out Batch-Batch Masuk/Keluar Baru
+New In Batch-Batch Masuk Baru
 Choose a vendor who send the goods.-Pilih vendor yang mPengirim barang.
 Received with thanks-Diterima dengan terima kasih
 Scan Tags-Scan Tag
@@ -171,3 +173,22 @@ Synced-Disinkronkan
 Room Ready to Sync-Ruang Siap Disinkronkan
 Sync now to update the batch to the server directly or return to home & sync later.-Sinkronkan sekarang untuk memperbarui batch ke server secara langsung atau kembali ke beranda & sinkronkan nanti.
 Sync Data Successful-Sinkronisasi Data Berhasil
+Are you sure to delete this batch? You will need re~scan again-Apakah Anda yakin ingin menghapus batch ini? Anda perlu scan ulang lagi.
+Delete-Hapus
+Please contact your administrator to reset your password.-Silakan hubungi admin Anda untuk mereset kata sandi
+Please perform a sync to retrieve the latest data.-Silakan lakukan sinkronisasi untuk mendapatkan data terbaru.
+Change Password-Ubah Kata Sandi
+Old Password-Kata Sandi Lama
+New Password-Kata Sandi Baru
+Password-Kata Sandi
+New Batch-Batch Baru
+Next-Lanjutkan
+Classification-Klasifikasi
+
+Process Finished-Proses Selesai
+Operation has completed succesfully-Operasi telah berhasil diselesaikan
+Return to Transaction & Sync Later-Kembali ke Transaksi dan Sinkronkan Nanti
+No Opname Task Available-Tidak Ada Tugas Opname yang Tersedia
+Please check again later or sync data to reload.-Silakan periksa lagi nanti atau sinkronkan data untuk memuat ulang.
+This asset along with it's tag will be deactivated-Aset ini beserta tagnya akan dinonaktifkan
+Not yet registered-Belum terdaftar
